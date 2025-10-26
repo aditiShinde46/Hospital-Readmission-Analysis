@@ -20,6 +20,7 @@ This project analyzes hospital admission data to identify key factors influencin
 - Source: Hospital Admission Records  
 - Target Variable: `readmitted` (1 = Yes, 0 = No)  
 - Features include demographics, diagnoses, stay duration, and visit history
+- https://www.kaggle.com/datasets/shivavashishtha/hospital-administration-data/
 
 ---
 
